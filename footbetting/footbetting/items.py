@@ -1,0 +1,166 @@
+# -*- coding: utf-8 -*-
+
+# Define here the models for your scraped items
+#
+# See documentation in:
+# http://doc.scrapy.org/en/latest/topics/items.html
+
+import scrapy
+from scrapy.item import Item, Field
+
+class MatchItem(scrapy.Item):
+	item_id = Field()
+	match_id = Field()
+	match_data_id = Field()
+	match_category = Field()
+	start_time = Field()
+	home = Field()
+	away = Field()
+	court = Field()
+	score = Field()
+	half_score = Field()
+	match_season = Field()
+	match_type = Field()
+	match_group = Field()
+	match_round = Field()
+	handicap = Field()
+
+	unique_code = Field()
+	source_url = Field()
+	status = Field()
+	version = Field()
+	created_at = Field()
+	created_by = Field()
+	updated_at = Field()
+	updated_by = Field()
+
+class EuropeOddsItem(scrapy.Item):
+	item_id = Field()
+	europe_odds_id = Field()
+	match_id = Field()
+	bookmaker = Field()
+	home_odds = Field()
+	draw_odds = Field()
+	away_odds = Field()
+
+	update_time = Field()
+	relative_match_update_time = Field()
+	home_prob = Field()
+	draw_prob = Field()
+	away_prob = Field()
+	home_kellyindex = Field()
+	draw_kellyindex = Field()
+	away_kellyindex = Field()
+	return_rate = Field()
+	unique_code = Field()
+	source_url = Field()
+	version = Field()
+	created_at = Field()
+	created_by = Field()
+	updated_at = Field()
+	updated_by = Field()
+"""
+class EuropeOddsUpdateHistoryItem(scrapy.Item):
+	match_id = Field()
+	bookmaker = Field()
+	home_odds = Field()
+	draw_odds = Field()
+	away_odds = Field()
+
+	time = Field()
+	home_prob = Field()
+	draw_prob = Field()
+	away_prob = Field()
+	home_kellyindex = Field()
+	draw_kellyindex = Field()
+	away_kellyindex = Field()
+	return_rate = Field()
+"""
+class AsianOddsItem(scrapy.Item):
+	item_id = Field()
+	match_id = Field()
+	bookmaker = Field()
+	home_odds = Field()
+	away_odds = Field()
+	handicap = Field()
+
+	update_time = Field()
+	relative_match_update_time = Field()
+	home_prob = Field()
+	away_prob = Field()
+	home_kellyindex = Field()
+	away_kellyindex = Field()
+	return_rate = Field()
+
+	unique_code = Field()
+	source_url = Field()
+	version = Field()
+	created_at = Field()
+	created_by = Field()
+	updated_at = Field()
+	updated_by = Field()
+    
+class OverUnderOddsItem(scrapy.Item):
+	item_id = Field()
+	match_id = Field()
+	bookmaker = Field()
+	over_odds = Field()
+	under_odds = Field()
+	handicap = Field()
+	update_time = Field()
+	relative_match_update_time = Field()
+	over_prob = Field()
+	under_prob = Field()
+	over_kellyindex = Field()
+	under_kellyindex = Field()
+	return_rate = Field()
+
+	unique_code = Field()
+	source_url = Field()
+	version = Field()
+	created_at = Field()
+	created_by = Field()
+	updated_at = Field()
+	updated_by = Field()
+    
+class StrokeAnalysisItem(scrapy.Item):
+	item_id = Field()
+	match_id = Field()
+	home_situation = Field()
+	away_situation = Field()
+	home_shoot_times = Field()
+	away_shoot_times = Field()
+	home_shoot_target_times = Field()
+	away_shoot_target_times = Field()
+	home_foul_times = Field()
+	away_foul_times = Field()
+	home_corner_times = Field()
+	away_corner_times = Field()
+
+	home_freekick_times = Field()
+	away_freekick_times = Field()
+	home_offside_times = Field()
+	away_offside_times = Field()
+	home_yellowcard_times = Field()
+	away_yellowcard_times = Field()
+	home_redcard_times = Field()
+	away_redcard_times = Field()
+	home_ballcontrol_time_ratio = Field()
+	away_ballcontrol_time_ratio = Field()
+	home_headballs = Field()
+	away_headballs = Field()
+	home_saveballs = Field()
+	away_saveballs = Field()
+	
+	source_url = Field()
+	version = Field()
+	created_at = Field()
+	created_by = Field()
+	updated_at = Field()
+	updated_by = Field()
+
+
+class DmozItem(Item):
+	id = Field()
+	fl = Field()
+	desc = Field()

@@ -1,0 +1,1322 @@
+
+
+
+
+
+
+	<tr class="matchTr" matchid = "2250335">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一001</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/10" target="_blank"></a><span style="display:block; padding:4px; background-color:#006699; color:#fff;">俄超</span></td>
+		<td name="ROUND_AND_GROUPING">第15轮</td>
+		<td class="matchDate" status="-1" date="2017-10-30 22:00:00" start-time="1509375660000">10-30 22:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2250335"></s>
+				<em class="paim">[10]</em><a href="http://saishi.zgzcw.com/soccer/team/13988" target="_blank">乌法</a>
+				<span class="rq" style="display: none" rq-data="1">(<strong class="rq-num red">1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">2-1</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/441" target="_blank">喀山</a>
+				<em class="paim">[8]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2250335"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">1-3</strong>
+					<strong class="f_bf  red" style="display: none">2:1</strong>
+					<strong class="f_jq  red" style="display: none">3</strong>
+					<strong class="f_sx  red" style="display: none">上单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg03">3.21</span>
+						<span >2.75</span>
+						<span >2.47</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg03">0.88</span>
+                        <span  title="受平/半">0.25</span>
+                        <span >1.02</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg03">3.20</span>
+					        <span >2.70</span>
+					        <span >2.25</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg02">1.50</span>
+							<span >3.55</span>
+							<span >5.55</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2250335/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2250335/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2250335/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2250232">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一002</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/10" target="_blank"></a><span style="display:block; padding:4px; background-color:#006699; color:#fff;">俄超</span></td>
+		<td name="ROUND_AND_GROUPING">第15轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 00:30:00" start-time="1509384840000">10-31 00:30</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2250232"></s>
+				<em class="paim">[13]</em><a href="http://saishi.zgzcw.com/soccer/team/605" target="_blank">格罗兹尼</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-1</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/2460" target="_blank">安郅</a>
+				<em class="paim">[16]</em>
+				<s class="yinp"  id="guestStar2250232"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-1</strong>
+					<strong class="f_bf  red" style="display: none">1:1</strong>
+					<strong class="f_jq  red" style="display: none">2</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >1.57</span>
+						<span class="bg01">3.69</span>
+						<span >5.73</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >1.06</span>
+                        <span  title="一球">-1</span>
+                        <span class="bg03">0.84</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >1.51</span>
+					        <span class="bg01">3.60</span>
+					        <span >5.30</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >2.72</span>
+							<span >3.15</span>
+							<span class="bg02">2.25</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2250232/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2250232/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2250232/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2191034">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一003</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/26" target="_blank"></a><span style="display:block; padding:4px; background-color:#004488; color:#fff;">瑞典超</span></td>
+		<td name="ROUND_AND_GROUPING">第29轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 02:00:00" start-time="1509390246000">10-31 02:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2191034"></s>
+				<em class="paim">[6]</em><a href="http://saishi.zgzcw.com/soccer/team/2165" target="_blank">北雪平</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">2-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/419" target="_blank">厄勒布鲁</a>
+				<em class="paim">[11]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2191034"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">2-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">3-3</strong>
+					<strong class="f_bf  red" style="display: none">2:0</strong>
+					<strong class="f_jq  red" style="display: none">2</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg02">1.63</span>
+						<span >4.16</span>
+						<span >4.47</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg02">0.79</span>
+                        <span  title="半/一">-0.75</span>
+                        <span >1.12</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg02">1.46</span>
+					        <span >4.23</span>
+					        <span >4.80</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg01">2.42</span>
+							<span >3.65</span>
+							<span >2.26</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2191034/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2191034/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2191034/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2191027">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一004</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/26" target="_blank"></a><span style="display:block; padding:4px; background-color:#004488; color:#fff;">瑞典超</span></td>
+		<td name="ROUND_AND_GROUPING">第29轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 02:00:00" start-time="1509390282000">10-31 02:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2191027"></s>
+				<em class="paim">[2]</em><a href="http://saishi.zgzcw.com/soccer/team/400" target="_blank">索尔纳</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">2-1</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/413" target="_blank">哥德堡</a>
+				<em class="paim">[9]</em>
+				<s class="yinp"  id="guestStar2191027"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">2-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">1</strong>
+					<strong class="f_bq  red"  style="display: none">3-3</strong>
+					<strong class="f_bf  red" style="display: none">2:1</strong>
+					<strong class="f_jq  red" style="display: none">3</strong>
+					<strong class="f_sx  red" style="display: none">上单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg02">1.40</span>
+						<span >4.62</span>
+						<span >6.82</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >0.84</span>
+                        <span  title="一/球半">-1.25</span>
+                        <span class="bg03">1.06</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg02">1.34</span>
+					        <span >4.30</span>
+					        <span >6.65</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >2.09</span>
+							<span class="bg03">3.50</span>
+							<span >2.75</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2191027/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2191027/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2191027/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2191024">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一005</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/22" target="_blank"></a><span style="display:block; padding:4px; background-color:#666666; color:#fff;">挪超</span></td>
+		<td name="ROUND_AND_GROUPING">第27轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 02:00:00" start-time="1509390254000">10-31 02:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2191024"></s>
+				<em class="paim">[12]</em><a href="http://saishi.zgzcw.com/soccer/team/509" target="_blank">利勒斯特</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">4-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/1280" target="_blank">奥勒松</a>
+				<em class="paim">[15]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2191024"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">3-3</strong>
+					<strong class="f_bf  red" style="display: none">4:0</strong>
+					<strong class="f_jq  red" style="display: none">4</strong>
+					<strong class="f_sx  red" style="display: none">上双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg02">1.69</span>
+						<span >3.80</span>
+						<span >4.42</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg02">0.88</span>
+                        <span  title="半/一">-0.75</span>
+                        <span >1.02</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg02">1.55</span>
+					        <span >3.85</span>
+					        <span >4.45</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg01">2.73</span>
+							<span >3.50</span>
+							<span >2.10</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2191024/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2191024/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2191024/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2260015">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一006</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/9" target="_blank"></a><span style="display:block; padding:4px; background-color:#CA00CA; color:#fff;">德乙</span></td>
+		<td name="ROUND_AND_GROUPING">第12轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 03:30:00" start-time="1509395700000">10-31 03:30</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" >1</span>
+				<s class="yinp" style="display:none" 2id="hostStar2260015"></s>
+				<em class="paim">[13]</em><a href="http://saishi.zgzcw.com/soccer/team/95" target="_blank">波鸿</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">0-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/1344" target="_blank">杜塞多夫</a>
+				<em class="paim">[1]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2260015"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-1</strong>
+					<strong class="f_bf  red" style="display: none">0:0</strong>
+					<strong class="f_jq  red" style="display: none">0</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >2.58</span>
+						<span class="bg03">3.29</span>
+						<span >2.59</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >0.89</span>
+                        <span class="bg01" title="平手">0</span>
+                        <span >1.01</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >2.65</span>
+					        <span class="bg03">3.30</span>
+					        <span >2.23</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >6.10</span>
+							<span >4.45</span>
+							<span class="bg02">1.35</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2260015/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2260015/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2260015/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2286321">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一007</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/34" target="_blank"></a><span style="display:block; padding:4px; background-color:#0088FF; color:#fff;">意甲</span></td>
+		<td name="ROUND_AND_GROUPING">第11轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 03:45:00" start-time="1509396797000">10-31 03:45</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2286321"></s>
+				<em class="paim">[19]</em><a href="http://saishi.zgzcw.com/soccer/team/559" target="_blank">维罗纳</a>
+				<span class="rq" style="display: none" rq-data="1">(<strong class="rq-num red">1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-2</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/152" target="_blank">国际米兰</a>
+				<em class="paim">[4]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2286321"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >0</strong>
+					<strong class="f_rq  red"  style="display: none">1</strong>
+					<strong class="f_bq  red"  style="display: none">0-0</strong>
+					<strong class="f_bf  red" style="display: none">1:2</strong>
+					<strong class="f_jq  red" style="display: none">3</strong>
+					<strong class="f_sx  red" style="display: none">上单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >8.10</span>
+						<span >5.00</span>
+						<span class="bg02">1.36</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg03">1.12</span>
+                        <span  title="受一/球半">1.25</span>
+                        <span >0.8</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >8.50</span>
+					        <span >5.05</span>
+					        <span class="bg02">1.23</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >3.27</span>
+							<span class="bg03">3.65</span>
+							<span >1.82</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2286321/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2286321/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2286321/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2282350">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一008</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/12" target="_blank"></a><span style="display:block; padding:4px; background-color:#B1A7A7; color:#fff;">法乙</span></td>
+		<td name="ROUND_AND_GROUPING">第13轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 03:45:00" start-time="1509396501000">10-31 03:45</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2282350"></s>
+				<em class="paim">[14]</em><a href="http://saishi.zgzcw.com/soccer/team/308" target="_blank">沙托鲁</a>
+				<span class="rq" style="display: none" rq-data="1">(<strong class="rq-num red">1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">0-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/202" target="_blank">朗斯</a>
+				<em class="paim">[18]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2282350"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">1-1</strong>
+					<strong class="f_bf  red" style="display: none">0:0</strong>
+					<strong class="f_jq  red" style="display: none">0</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >3.28</span>
+						<span class="bg03">3.31</span>
+						<span >2.12</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg03">1.08</span>
+                        <span  title="受平/半">0.25</span>
+                        <span >0.8</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >2.80</span>
+					        <span class="bg03">3.15</span>
+					        <span >2.20</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg02">1.53</span>
+							<span >3.85</span>
+							<span >4.65</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2282350/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2282350/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2282350/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2248870">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一009</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/36" target="_blank"></a><span style="display:block; padding:4px; background-color:#FF3333; color:#fff;">英超</span></td>
+		<td name="ROUND_AND_GROUPING">第10轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 04:00:00" start-time="1509397468000">10-31 04:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2248870"></s>
+				<em class="paim">[10]</em><a href="http://saishi.zgzcw.com/soccer/team/46" target="_blank">伯恩利</a>
+				<span class="rq" style="display: none" rq-data="1">(<strong class="rq-num red">1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/28" target="_blank">纽卡斯尔</a>
+				<em class="paim">[8]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2248870"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">1-3</strong>
+					<strong class="f_bf  red" style="display: none">1:0</strong>
+					<strong class="f_jq  red" style="display: none">1</strong>
+					<strong class="f_sx  red" style="display: none">下单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg03">3.08</span>
+						<span >3.06</span>
+						<span >2.51</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg03">0.79</span>
+                        <span  title="受平/半">0.25</span>
+                        <span >1.13</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg01">2.75</span>
+					        <span >2.92</span>
+					        <span >2.36</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg02">1.46</span>
+							<span >3.90</span>
+							<span >5.35</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2248870/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2248870/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2248870/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2277781">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一010</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/31" target="_blank"></a><span style="display:block; padding:4px; background-color:#006633; color:#fff;">西甲</span></td>
+		<td name="ROUND_AND_GROUPING">第10轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 04:00:00" start-time="1509397401000">10-31 04:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2277781"></s>
+				<em class="paim">[15]</em><a href="http://saishi.zgzcw.com/soccer/team/100" target="_blank">西班牙人</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/96" target="_blank">贝蒂斯</a>
+				<em class="paim">[8]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2277781"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">1</strong>
+					<strong class="f_bq  red"  style="display: none">1-3</strong>
+					<strong class="f_bf  red" style="display: none">1:0</strong>
+					<strong class="f_jq  red" style="display: none">1</strong>
+					<strong class="f_sx  red" style="display: none">下单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg02">2.03</span>
+						<span >3.51</span>
+						<span >3.63</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg02">0.98</span>
+                        <span  title="半球">-0.5</span>
+                        <span >0.93</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg02">1.98</span>
+					        <span >3.25</span>
+					        <span >3.16</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >4.08</span>
+							<span class="bg01">3.70</span>
+							<span >1.63</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2277781/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2277781/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2277781/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2277784">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一011</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/31" target="_blank"></a><span style="display:block; padding:4px; background-color:#006633; color:#fff;">西甲</span></td>
+		<td name="ROUND_AND_GROUPING">第10轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 04:00:00" start-time="1509397550000">10-31 04:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2277784"></s>
+				<em class="paim">[18]</em><a href="http://saishi.zgzcw.com/soccer/team/991" target="_blank">拉帕马斯</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-3</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/93" target="_blank">拉科</a>
+				<em class="paim">[16]</em>
+				<s class="yinp"  id="guestStar2277784"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >0</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-0</strong>
+					<strong class="f_bf  red" style="display: none">1:3</strong>
+					<strong class="f_jq  red" style="display: none">4</strong>
+					<strong class="f_sx  red" style="display: none">上双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >2.03</span>
+						<span >3.66</span>
+						<span class="bg01">3.48</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >1.03</span>
+                        <span  title="半球">-0.5</span>
+                        <span class="bg03">0.88</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >1.97</span>
+					        <span >3.35</span>
+					        <span class="bg01">3.10</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >3.90</span>
+							<span >3.85</span>
+							<span class="bg02">1.63</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2277784/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2277784/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2277784/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2268393">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一012</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/23" target="_blank"></a><span style="display:block; padding:4px; background-color:#008888; color:#fff;">葡超</span></td>
+		<td name="ROUND_AND_GROUPING">第10轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 04:00:00" start-time="1509397565000">10-31 04:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2268393"></s>
+				<em class="paim">[14]</em><a href="http://saishi.zgzcw.com/soccer/team/1554" target="_blank">波尔蒂芒</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">5-2</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/440" target="_blank">塞图巴尔</a>
+				<em class="paim">[12]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2268393"></s>
+                <span class="hongpai" >1</span>
+			</span>
+		</td>
+		<td><span class="bcbf">3-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >3</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">3-3</strong>
+					<strong class="f_bf  red" style="display: none">5:2</strong>
+					<strong class="f_jq  red" style="display: none">7</strong>
+					<strong class="f_sx  red" style="display: none">上单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span class="bg02">2.12</span>
+						<span >3.18</span>
+						<span >3.44</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg02">0.88</span>
+                        <span  title="平/半">-0.25</span>
+                        <span >1.02</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span class="bg02">2.15</span>
+					        <span >3.00</span>
+					        <span >3.02</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg03">4.86</span>
+							<span >3.70</span>
+							<span >1.53</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2268393/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2268393/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2268393/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2218609">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一013</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/4" target="_blank"></a><span style="display:block; padding:4px; background-color:#d1d102; color:#fff;">巴甲</span></td>
+		<td name="ROUND_AND_GROUPING">第31轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 06:00:00" start-time="1509404625000">10-31 06:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2218609"></s>
+				<em class="paim">[2]</em><a href="http://saishi.zgzcw.com/soccer/team/465" target="_blank">帕梅拉斯</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">2-2</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/354" target="_blank">克鲁塞罗</a>
+				<em class="paim">[7]</em>
+				<s class="yinp"  id="guestStar2218609"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-1</strong>
+					<strong class="f_bf  red" style="display: none">2:2</strong>
+					<strong class="f_jq  red" style="display: none">4</strong>
+					<strong class="f_sx  red" style="display: none">上双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >1.68</span>
+						<span class="bg01">3.51</span>
+						<span >4.99</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >1.01</span>
+                        <span  title="半/一">-0.75</span>
+                        <span class="bg03">0.89</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >1.55</span>
+					        <span class="bg01">3.45</span>
+					        <span >5.15</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >2.90</span>
+							<span >3.12</span>
+							<span class="bg02">2.16</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2218609/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2218609/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2218609/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2297665">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一014</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/2" target="_blank"></a><span style="display:block; padding:4px; background-color:#00CCCC; color:#fff;">阿甲</span></td>
+		<td name="ROUND_AND_GROUPING">第7轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 06:05:00" start-time="1509405003000">10-31 06:05</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2297665"></s>
+				<em class="paim">[22]</em><a href="http://saishi.zgzcw.com/soccer/team/5114" target="_blank">防御正义</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-1</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/732" target="_blank">奥林匹奥</a>
+				<em class="paim">[28]</em>
+				<s class="yinp"  id="guestStar2297665"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">3-1</strong>
+					<strong class="f_bf  red" style="display: none">1:1</strong>
+					<strong class="f_jq  red" style="display: none">2</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >1.53</span>
+						<span class="bg01">3.76</span>
+						<span >6.12</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >1.05</span>
+                        <span  title="一球">-1</span>
+                        <span class="bg03">0.85</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >1.40</span>
+					        <span class="bg01">3.70</span>
+					        <span >6.90</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >2.46</span>
+							<span >3.10</span>
+							<span class="bg01">2.50</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value=""></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2297665/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2297665/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2297665/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2297661">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一015</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/2" target="_blank"></a><span style="display:block; padding:4px; background-color:#00CCCC; color:#fff;">阿甲</span></td>
+		<td name="ROUND_AND_GROUPING">第7轮</td>
+		<td class="matchDate" status="-1" date="2017-10-31 08:05:00" start-time="1509412325000">10-31 08:05</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" id="hostStar2297661"></s>
+				<em class="paim">[25]</em><a href="http://saishi.zgzcw.com/soccer/team/5107" target="_blank">老虎竞技</a>
+				<span class="rq" style="display: none" rq-data="1">(<strong class="rq-num red">1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-1</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/293" target="_blank">罗萨里奥</a>
+				<em class="paim">[26]</em>
+				<s class="yinp" style="display:none" 1 id="guestStar2297661"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">3</strong>
+					<strong class="f_bq  red"  style="display: none">3-1</strong>
+					<strong class="f_bf  red" style="display: none">1:1</strong>
+					<strong class="f_jq  red" style="display: none">2</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >2.86</span>
+						<span class="bg03">3.12</span>
+						<span >2.41</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span class="bg03">0.8</span>
+                        <span  title="受平/半">0.25</span>
+                        <span >1.11</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >2.72</span>
+					        <span class="bg03">2.90</span>
+					        <span >2.40</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span class="bg02">1.43</span>
+							<span >3.90</span>
+							<span >5.75</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value="雷陣雨"></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2297661/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2297661/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2297661/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2328278">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一016</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/21" target="_blank"></a><span style="display:block; padding:4px; background-color:#660033; color:#fff;">美职</span></td>
+		<td name="ROUND_AND_GROUPING">东准决赛</td>
+		<td class="matchDate" status="-1" date="2017-10-31 07:00:00" start-time="1509409730000">10-31 07:00</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2328278"></s>
+				<em class="paim"></em><a href="http://saishi.zgzcw.com/soccer/team/310" target="_blank">纽约红牛</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">1-2</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/5345" target="_blank">多伦多</a>
+				<em class="paim"></em>
+				<s class="yinp"  id="guestStar2328278"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">1-1</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >0</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-0</strong>
+					<strong class="f_bf  red" style="display: none">1:2</strong>
+					<strong class="f_jq  red" style="display: none">3</strong>
+					<strong class="f_sx  red" style="display: none">上单</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >2.35</span>
+						<span >3.39</span>
+						<span class="bg01">2.78</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >0.81</span>
+                        <span  title="平手">0</span>
+                        <span class="bg03">1.07</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >2.25</span>
+					        <span >3.35</span>
+					        <span class="bg01">2.60</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >4.80</span>
+							<span >4.10</span>
+							<span class="bg02">1.48</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value="雷陣雨"></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2328278/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2328278/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2328278/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+	<tr class="matchTr" matchid = "2328279">
+		<td><div class="div-input-hz "><input name="order" type="checkbox" value="" class="bfzb-xuhao" /></div><em class="input-xh">周一017</em></td>
+		<td class="matchType"><a href="http://saishi.zgzcw.com/soccer/league/21" target="_blank"></a><span style="display:block; padding:4px; background-color:#660033; color:#fff;">美职</span></td>
+		<td name="ROUND_AND_GROUPING">西准决赛</td>
+		<td class="matchDate" status="-1" date="2017-10-31 09:30:00" start-time="1509417704000">10-31 09:30</td>
+		<td class="matchStatus"><strong class="red"> 完</strong></td>
+		<td>
+			<span class="sptr">
+				<span class="hongpai" style="display:none">0</span>
+				<s class="yinp" style="display:none" 2id="hostStar2328279"></s>
+				<em class="paim"></em><a href="http://saishi.zgzcw.com/soccer/team/4073" target="_blank">休斯敦</a>
+				<span class="rq" style="display: none" rq-data="-1">(<strong class="rq-num green">-1</strong>)</span>
+			</span>
+		</td>
+		<td class="boldbf" style="position:relative"><span class="boldbf  red">0-0</span></td>
+		<td>
+			<span class="sptl">
+				<a href="http://saishi.zgzcw.com/soccer/team/5555" target="_blank">波特兰</a>
+				<em class="paim"></em>
+				<s class="yinp"  id="guestStar2328279"></s>
+                <span class="hongpai" style="display:none">0</span>
+			</span>
+		</td>
+		<td><span class="bcbf">0-0</span></td>
+
+			<td class="f_sel">
+
+					<strong class="f_sf  red" >1</strong>
+					<strong class="f_rq  red"  style="display: none">0</strong>
+					<strong class="f_bq  red"  style="display: none">1-1</strong>
+					<strong class="f_bf  red" style="display: none">0:0</strong>
+					<strong class="f_jq  red" style="display: none">0</strong>
+					<strong class="f_sx  red" style="display: none">下双</strong>
+
+			</td>
+
+		<td class="oddMatch">
+
+				<div class="oupei">
+
+						<span >2.17</span>
+						<span class="bg03">3.38</span>
+						<span >3.09</span>
+
+				</div>
+				<div class="yapan" style="display: none">
+
+                        <span >0.95</span>
+                        <span  title="平/半">-0.25</span>
+                        <span class="bg03">0.95</span>
+
+				</div>
+
+					<div class="jcsp" style="display:none">
+
+							<span >2.06</span>
+					        <span class="bg03">3.35</span>
+					        <span >2.90</span>
+
+					</div>
+					<div class="jcrqsp" style="display:none">
+
+							<span >4.30</span>
+							<span >3.80</span>
+							<span class="bg02">1.58</span>
+
+					</div>
+
+
+
+
+		</td>
+		<td class="weatherTd" value="天晴"></td>
+		<td class="fc"><a href="http://fenxi.zgzcw.com/2328279/bjop" target="_blank">欧</a> <a href="http://fenxi.zgzcw.com/2328279/ypdb" target="_blank">亚</a> <a href="http://fenxi.zgzcw.com/2328279/bfyc" target="_blank">析</a></td>
+
+	</tr>
+
+<input type="hidden" id="codeId" name="codeId" value="201"/>
+<input type="hidden" id="dateId" name="dateId" value="2017-10-30"/>
+<input type="hidden" id="issueId" name="issueId" value=""/>
+<input type="hidden" id="socketURL" name="socketURL" value="ws1.zgzcw.com"/>
+<input type="hidden" id="serverDate" name="serverDate" value="2017-11-01 00:47:33"/>
+<input type="hidden" id="playsid" name="playsid" value=""/>
+<input type="hidden" id="allEvent" name="allEvent" value=''>
